@@ -1,3 +1,7 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="1.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="2.png">
+</picture>
 ### Hi there 👋
 
 <!--

@@ -21,9 +21,9 @@
 ### Knowlegde
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-          
+### Statistics
 <div align="center">
 <a href="https://github.com/lcardosott">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcardosott&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcardosott&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcardosott&layout=compact&langs_count=7&theme=ocean_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcardosott&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
